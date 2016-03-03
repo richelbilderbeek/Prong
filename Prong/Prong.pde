@@ -67,8 +67,8 @@ void keyPressed() {
   if (key == 's' || key == 'S') { has_pressed_right_1 = true; }
   if (key == 'h' || key == 'H') { has_pressed_left_2  = true; }
   if (key == 'j' || key == 'J') { has_pressed_right_2 = true; }
-  if (key == ';' ) { has_pressed_left_3  = true; }
-  if (key == '\'') { has_pressed_right_3 = true; }
+  if (key == '\'' ) { has_pressed_left_3  = true; }
+  if (key == '\\') { has_pressed_right_3 = true; }
   if (key == CODED) {
     if (keyCode == LEFT ) { has_pressed_left_4  = true; }
     if (keyCode == RIGHT) { has_pressed_right_4 = true; }
@@ -80,8 +80,8 @@ void keyReleased() {
   if (key == 's' || key == 'S') { has_pressed_right_1 = false; }
   if (key == 'h' || key == 'H') { has_pressed_left_2  = false; }
   if (key == 'j' || key == 'J') { has_pressed_right_2 = false; }
-  if (key == ';' ) { has_pressed_left_3  = false; }
-  if (key == '\'') { has_pressed_right_3 = false; }
+  if (key == '\'' ) { has_pressed_left_3  = false; }
+  if (key == '\\') { has_pressed_right_3 = false; }
   if (key == CODED) {
     if (keyCode == LEFT ) { has_pressed_left_4  = false; }
     if (keyCode == RIGHT) { has_pressed_right_4 = false; }
