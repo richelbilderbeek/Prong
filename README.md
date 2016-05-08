@@ -1,5 +1,10 @@
 # Prong
 
+[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
+[![gplv3](http://www.gnu.org/graphics/gplv3-88x31.png)](http://www.gnu.org/licenses/gpl.html)
+
+[![Build Status](https://travis-ci.org/richelbilderbeek/Prong.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Prong)
+
 Cooperative Pong game, written in Processing.
 
 ![Prong v1.0](Screenshots/Prong_1_0.png)
