@@ -32,5 +32,3 @@ and to get the ball to pass the other team's paddle.
  * `\`: player 3 right
  * arrow left: player 4 left
  * arrow right: player 4 right
-
-Ik zit op Richel
