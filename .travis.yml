@@ -1,5 +1,6 @@
 language: java
 dist: xenial
+sudo: true
 
 script: 
   # - jdk_switcher use oraclejdk8
