@@ -1,12 +1,12 @@
 language: java
-dist: xenial
-sudo: true
-
-jdk:
-  - oraclejdk11
+# dist: xenial
+# sudo: true
+#
+# jdk:
+#  - oraclejdk11
 
 script: 
-  # - jdk_switcher use oraclejdk8
+  - jdk_switcher use oraclejdk8
   - ./download_processing.sh
   - ./build.sh
 
