@@ -1,8 +1,8 @@
 # Prong
 
-Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)|[![Codecov logo](pics/Codecov.png)](https://www.codecov.io)
----|---|---
-`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/Prong.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Prong) | [![codecov.io](https://codecov.io/github/richelbilderbeek/Prong/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/Prong?branch=master)
+Branch   |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)                                                                    |[![Codecov logo](pics/Codecov.png)](https://www.codecov.io)
+---------|---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------
+`master` |[![Build Status](https://travis-ci.org/richelbilderbeek/Prong.svg?branch=master)](https://travis-ci.org/richelbilderbeek/Prong)  | [![codecov.io](https://codecov.io/github/richelbilderbeek/Prong/coverage.svg?branch=master)](https://codecov.io/github/richelbilderbeek/Prong?branch=master)
 `develop`|[![Build Status](https://travis-ci.org/richelbilderbeek/Prong.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/Prong) | [![codecov.io](https://codecov.io/github/richelbilderbeek/Prong/coverage.svg?branch=develop)](https://codecov.io/github/richelbilderbeek/Prong?branch=develop)
 
 Cooperative Pong game, written in Processing.
